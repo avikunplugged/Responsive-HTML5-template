@@ -4,10 +4,42 @@
  *         other info you may want to give   
  */
 
+
+
 html {
 
 }
 
 body {
+
+}
+
+/* Common rules */
+
+
+/* For phones with low resolution */
+
+
+/*
+ * Media Queries
+ */
+
+/* For phones with medium resolution */
+@media only screen and (min-width: 480px) {
+
+}
+
+/* For high-resolution phones or low resolution tablets */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* For high resolution tablets and computers */
+@media only screen and (min-width: 1140px) {
+
+}
+
+/* For printed media */
+@media print {
 
 }
