@@ -3,6 +3,8 @@ Responsive-HTML5-template
 
 Extremely simple and light, easily customizable HTML5 template for responsive designs.
 
+Most of the the work in this template is based on HTML5 Boilerplate and Twitter Bootstrap.
+
 It includes index.html that has all HTML5 tags in place and link to default stylesheet. The stylesheet does
 not have any actual CSS rules, but empty sections for body and @media tags to start creating responsive designs
 more quickly. There are also empty directories for putting JavaScript files and images.
