@@ -14,6 +14,7 @@ from the template to make it suitable for your needs. That being said, if you ha
 (@media -rules), then this template is not for your needs. Nothing prevents you from using this template and
 removing the responsiveness though.
 
-This template does not come with normalized CSS, JQuery,  Google Analytics -magic.
+This template does not come with normalized CSS, JQuery, HTML5shiv or Google Analytics -magic. If you need them,
+include them by hand.
 
-In case you need more advanced functionality out-of-the-box, use <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>
+In case you need these advanced features out-of-the-box, use <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>
